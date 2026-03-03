@@ -1,12 +1,17 @@
 <h1 align="center">Daniel Rares</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danielrares&label=Profile%20Visitors&color=FFA500&style=flat-square" />
+</p>
+
 <p align="center">
   Software Engineer • Lisbon, Portugal • JavaScript/TypeScript/Node.js & Go
 </p>
 
 <p align="center">
-  <a href="https://github.com/danielrares">GitHub</a> •
-  <a href="linkedin.com/in/danielrares/">LinkedIn</a> •
-  <a href="mailto:danielrares1@yahoo.com">Email</a>
+<a href="https://github.com/danielrares" style="color:#FFA500;">GitHub</a> •
+  <a href="linkedin.com/in/danielrares/" style="color:#FFA500;">LinkedIn</a> •
+  <a href="mailto:danielrares1@yahoo.com" style="color:#FFA500;">Email</a>
 </p>
 
 ---
@@ -72,3 +77,6 @@ Software Engineer with 9+ years of experience building scalable, high-impact sys
   </table>
 </p>
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielrares&label=Profile%20views&color=FFA500&style=plastic" alt="danielrares" /> </p>
+
