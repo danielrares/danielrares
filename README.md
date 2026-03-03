@@ -77,6 +77,3 @@ Software Engineer with 9+ years of experience building scalable, high-impact sys
   </table>
 </p>
 -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielrares&label=Profile%20views&color=FFA500&style=plastic" alt="danielrares" /> </p>
-
