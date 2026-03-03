@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://github.com/danielrares" style="color:#FFA500;">GitHub</a> •
-  <a href="linkedin.com/in/danielrares/" style="color:#FFA500;">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/danielrares/" style="color:#FFA500;">LinkedIn</a> •
   <a href="mailto:danielrares1@yahoo.com" style="color:#FFA500;">Email</a>
 </p>
 
