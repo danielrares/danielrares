@@ -29,6 +29,7 @@ Software Engineer with 9+ years of experience building scalable, high-impact sys
 - **Observability:** Datadog, UptimeRobot 
 - **Network:** Cloudflare  
 - **Tests:** Jest, Mocha
+- **IaC:** Terraform 
 
 ---
 
