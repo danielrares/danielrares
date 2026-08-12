@@ -30,7 +30,7 @@ Software Engineer with 9+ years of experience building scalable, high-impact sys
 - **Network:** Cloudflare  
 - **Tests:** Jest, Mocha
 - **IaC:** Terraform 
-
+<!--
 ---
 
 ## GitHub Stats
